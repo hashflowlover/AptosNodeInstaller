@@ -1,8 +1,8 @@
 # AptosNodeInstaller
 A simple guide
 
-#!/bin/bash/n
-exists()n/
+#!/bin/bash 
+exists() 
 {
   command -v "$1" >/dev/null 2>&1
 }
